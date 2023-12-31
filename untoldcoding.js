@@ -247,7 +247,7 @@ function render() {
   particles = [];
   //
   text = new Text({
-    copy: "UntoldCoding",
+    copy: "Shivam",
   });
 
   canvas.addEventListener("click", (e) => {
